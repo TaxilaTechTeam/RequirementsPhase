@@ -1,1 +1,9 @@
 //Write the requirements below:
+The website should contain heading tabs like:
+1. Home : The page where our main website would be shown .
+2. About us : The page where info about our group "Taxila" would be shown and further this page can have sub sections like the operation team and the technical team etc.
+3. Questions ?: This page can have different questions that the visitors generally have about our group.
+4. Contact us : Its a simple page where we can give them contacting information.
+5. Gallery: This page will have images and videos of our group and events .
+
+These could be the main headings of our website.
